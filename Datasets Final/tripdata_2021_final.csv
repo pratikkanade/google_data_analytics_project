@@ -1,0 +1,15 @@
+"usertype","day_of_week","year","number_of_rides","average_duration"
+"Customer","Sunday","2021",46792,2470.98504017781
+"Customer","Monday","2021",30690,2326.87142391659
+"Customer","Tuesday","2021",33727,2266.53603937498
+"Customer","Wednesday","2021",24086,2004.74117744748
+"Customer","Thursday","2021",21226,1548.5835767455
+"Customer","Friday","2021",35039,2278.28551043123
+"Customer","Saturday","2021",57305,2399.49721664776
+"Subscriber","Sunday","2021",56304,980.691567206593
+"Subscriber","Monday","2021",65700,866.791780821918
+"Subscriber","Tuesday","2021",71678,841.609322246714
+"Subscriber","Wednesday","2021",65952,819.811984473557
+"Subscriber","Thursday","2021",62055,778.8530658287
+"Subscriber","Friday","2021",72905,829.384788423291
+"Subscriber","Saturday","2021",68663,961.945006772206
