@@ -1,4 +1,4 @@
-# google_data_analytics_cyclistic
+# Google Data Analytics Project
 
 This is a capstone project under the Google Data Analytics Professional Certificate course. 
 The bike riding trends of two different sets of users of a bike sharing company - Cyclistic are analyzed in this project. 
